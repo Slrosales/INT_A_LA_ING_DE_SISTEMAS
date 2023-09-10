@@ -1,10 +1,10 @@
 # Introducción a la Ingeniería de Sistemas
 
-Bienvenidx al repositorio a este repositorio, dirigido a los estudiantes de la Universidad del Norte y a cualquier persona interesada en aprender Python y las bases de la ciencia de datos. Esto es un recurso para que puedam iniciar en el mundo de la programación.
+Bienvenidx al repositorio a este repositorio, dirigido a los estudiantes de la Universidad del Norte y a cualquier persona interesada en aprender Python y la Analítica de datos. Esto es un recurso para que puedam iniciar en el mundo de la programación.
 
 ## Objetivo
 
-El propósito principal de este repositorio es brindar una introducción sólida a la programación en Python y al área de ciencia de datos.
+El propósito principal de este repositorio es brindar una introducción sólida a la programación en Python y al área de Analítica de datos.
 Esto incluye temas como:
 
 - Introducción a Google Colab para la creación de cuadernos de Jupyter.
